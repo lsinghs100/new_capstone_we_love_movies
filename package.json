@@ -39,13 +39,5 @@
   "directories": {
     "doc": "docs",
     "test": "test"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/CraigWilliamHyatt/we-love-movies-backend.git"
-  },
-  "bugs": {
-    "url": "https://github.com/CraigWilliamHyatt/we-love-movies-backend/issues"
-  },
-  "homepage": "https://github.com/CraigWilliamHyatt/we-love-movies-backend#readme"
+  }
 }
